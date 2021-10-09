@@ -1,0 +1,27 @@
+h1{
+	color:#EAB543;
+	text-align: center;
+
+}
+button{
+	margin: 5px 0;
+}
+span{
+	color: #182C61;
+}
+th{
+	border: 1px solid darkgrey;
+}
+td{
+	border: 1px solid darkgrey;
+}
+
+.map{
+	width: 70%;
+	height: 600px;
+}
+
+.video_ct{
+	width:570px;
+	height: 315px;
+}
